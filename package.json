@@ -1,0 +1,11 @@
+{
+  "name": "SteamDig",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Fleoxi/SteamDig",
+  "author": "Fleoxi ",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
